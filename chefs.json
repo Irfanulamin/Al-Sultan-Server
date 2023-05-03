@@ -1,0 +1,248 @@
+[
+  {
+    "id": 1,
+    "picture": "https://images.unsplash.com/photo-1557862921-37829c790f19?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+    "likes": "1.8k",
+    "numRecipes": 3,
+    "name": "Ahmed",
+    "yearsOfExperience": 10,
+    "nationality": "Lebanese",
+    "bio": "Ahmed grew up in Beirut and developed a passion for cooking at a young age. He specializes in traditional Lebanese cuisine and loves to use fresh herbs and spices in his dishes. Ahmed has over 10 years of experience in the culinary industry and has worked in some of the best restaurants in Beirut and Dubai.",
+    "recipes": [
+      {
+        "name": "Kabsa",
+        "ingredients": ["rice", "chicken", "tomatoes", "onions", "garlic"],
+        "rating": 4.5,
+        "cookingMethod": "Boil rice, sauté chicken, and mix with tomato-based sauce."
+      },
+      {
+        "name": "Tabbouleh",
+        "ingredients": ["parsley", "tomatoes", "bulgur", "lemon juice", "mint"],
+        "rating": 4.2,
+        "cookingMethod": "Mix all ingredients together and let sit in the fridge for at least an hour."
+      },
+      {
+        "name": "Fattoush",
+        "ingredients": [
+          "lettuce",
+          "tomatoes",
+          "cucumbers",
+          "pita chips",
+          "sumac"
+        ],
+        "rating": 4.0,
+        "cookingMethod": "Mix all ingredients together and add dressing before serving."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "picture": "https://images.unsplash.com/photo-1578855255673-e1c9684b137f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=685&q=80",
+    "likes": "3.1k",
+    "numRecipes": 3,
+    "name": "Fatima",
+    "yearsOfExperience": 8,
+    "nationality": "Pakistani",
+    "bio": "Fatima learned to cook from her mother and grandmother in Karachi. She enjoys experimenting with spices and flavors from all over South Asia and has a talent for creating complex dishes with layers of flavor. Fatima has over 8 years of experience in the culinary industry and has worked in restaurants in Karachi, Dubai, and London.",
+    "recipes": [
+      {
+        "name": "Biryani",
+        "ingredients": ["rice", "beef", "onions", "cumin", "cardamom"],
+        "rating": 4.5,
+        "cooking_method": "boil rice, fry beef and onions with spices, layer in pot and cook on low heat"
+      },
+      {
+        "name": "Hummus",
+        "ingredients": [
+          "chickpeas",
+          "tahini",
+          "lemon juice",
+          "garlic",
+          "cumin"
+        ],
+        "rating": 4.8,
+        "cooking_method": "blend all ingredients together until smooth"
+      },
+      {
+        "name": "Shawarma",
+        "ingredients": [
+          "chicken",
+          "garlic sauce",
+          "pickles",
+          "onions",
+          "tomatoes"
+        ],
+        "rating": 4.2,
+        "cooking_method": "marinate chicken, cook on a rotisserie, slice and serve in pita bread with toppings"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "picture": "https://images.unsplash.com/photo-1581382575275-97901c2635b7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "likes": "2.7k",
+    "numRecipes": 3,
+    "name": "Youssef",
+    "yearsOfExperience": 12,
+    "nationality": "Jordanian",
+    "bio": "Youssef grew up in Amman and learned to cook from his mother and grandmother. He specializes in traditional Jordanian dishes and loves to use locally sourced ingredients in his cooking. Youssef has over 5 years of experience in the culinary industry and has worked in restaurants in Amman and Dubai.",
+    "recipes": [
+      {
+        "name": "Mansaf",
+        "ingredients": ["lamb", "yogurt", "rice", "almonds", "cardamom"],
+        "rating": 4.5,
+        "cooking_method": "Slow-cook the lamb with spices and serve with rice, yogurt sauce, and toasted almonds."
+      },
+      {
+        "name": "Mujadara",
+        "ingredients": [
+          "lentils",
+          "rice",
+          "caramelized onions",
+          "cumin",
+          "coriander"
+        ],
+        "rating": 4.2,
+        "cooking_method": "Cook lentils and rice with spices, then top with caramelized onions and serve with yogurt sauce."
+      },
+      {
+        "name": "Baba ghanoush",
+        "ingredients": [
+          "eggplant",
+          "tahini",
+          "garlic",
+          "lemon juice",
+          "olive oil"
+        ],
+        "rating": 4.7,
+        "cooking_method": "Roast the eggplant, then blend with tahini, garlic, lemon juice, and olive oil to make a smooth dip."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "picture": "https://images.unsplash.com/photo-1664575602554-2087b04935a5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "likes": "1.5k",
+    "numRecipes": 3,
+    "name": "Sara",
+    "yearsOfExperience": 6,
+    "nationality": "Palestinian",
+    "bio": "Sara was born and raised in Ramallah and learned to cook from her mother and aunts. She specializes in Palestinian cuisine and loves to use fresh vegetables and herbs in her dishes. Sara has over 3 years of experience in the culinary industry and has worked in restaurants in Ramallah and Dubai.",
+    "recipes": [
+      {
+        "name": "Kanafeh",
+        "ingredients": [
+          "shredded phyllo dough",
+          "cheese",
+          "sugar syrup",
+          "butter",
+          "orange blossom water"
+        ],
+        "rating": 4.5,
+        "cooking_method": "Preheat the oven to 375°F (190°C). In a large bowl, mix together the shredded phyllo dough, melted butter, and orange blossom water. Press half of the mixture into the bottom of a baking dish. Spread the cheese over the phyllo, then top with the remaining phyllo mixture. Bake for 30-35 minutes, or until golden brown. Pour the sugar syrup over the hot kanafeh, then let cool before serving."
+      },
+      {
+        "name": "Maamoul",
+        "ingredients": [
+          "semolina",
+          "dates",
+          "pistachios",
+          "butter",
+          "rose water"
+        ],
+        "rating": 4.2,
+        "cooking_method": "Preheat the oven to 350°F (175°C). In a large bowl, mix together the semolina, melted butter, and rose water. Knead the dough until it comes together. In a separate bowl, mix together the dates and pistachios. Form the dough into small balls and press your thumb into the center to make an indentation. Fill the indentation with the date and pistachio mixture, then fold the dough over to cover the filling. Press the edges to seal. Bake for 15-20 minutes, or until golden brown. Let cool before serving."
+      },
+      {
+        "name": "Baklava",
+        "ingredients": [
+          "phyllo dough",
+          "walnuts",
+          "honey syrup",
+          "butter",
+          "cinnamon"
+        ],
+        "rating": 4.7,
+        "cooking_method": "Preheat the oven to 350°F (175°C). In a large bowl, mix together the walnuts, melted butter, and cinnamon. Layer half of the phyllo sheets in a greased baking dish, brushing each layer with melted butter. Spread the walnut mixture over the phyllo, then top with the remaining phyllo sheets, again brushing each layer with melted butter. Bake for 25-30 minutes, or until golden brown. Pour the honey syrup over the hot baklava, then let cool before serving."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "picture": "https://images.unsplash.com/flagged/photo-1573603867003-89f5fd7a7576?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTB8fG1hbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "likes": "2.2k",
+    "numRecipes": 3,
+    "name": "Amin",
+    "yearsOfExperience": 7,
+    "nationality": "Yemeni",
+    "bio": "Amin grew up in Sana'a and learned to cook from his grandmother. He specializes in Yemeni cuisine and loves to use spices like cumin and coriander in his dishes. Amin has over 4 years of experience in the culinary industry and has worked in restaurants in Sana'a and Dubai.",
+    "recipes": [
+      {
+        "name": "Mandi",
+        "ingredients": ["chicken", "rice", "cumin", "cardamom", "coriander"],
+        "rating": 4.5,
+        "cooking_method": "Grilling and steaming"
+      },
+      {
+        "name": "Falafel",
+        "ingredients": ["chickpeas", "garlic", "onion", "cumin", "coriander"],
+        "rating": 4.2,
+        "cooking_method": "Deep frying"
+      },
+      {
+        "name": "Mutabbal",
+        "ingredients": [
+          "eggplant",
+          "yogurt",
+          "tahini",
+          "lemon juice",
+          "garlic"
+        ],
+        "rating": 4.8,
+        "cooking_method": "Grilling and mashing"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "picture": "https://images.unsplash.com/photo-1664575600850-c4b712e6e2bf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fHdvbWFufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "likes": "3.4k",
+    "numRecipes": 3,
+    "name": "Laila",
+    "yearsOfExperience": 9,
+    "nationality": "Syrian",
+    "bio": "Laila was born and raised in Aleppo and learned to cook from her mother and grandmother. She specializes in Syrian cuisine and loves to use fresh herbs and spices in her dishes. Laila has over 2 years of experience in the culinary industry and has worked in restaurants in Aleppo and Dubai.",
+    "recipes": [
+      {
+        "name": "Mansaf",
+        "ingredients": ["lamb", "yogurt", "rice", "almonds", "cumin"],
+        "rating": 4.5,
+        "cooking_method": "1. Cook the lamb in a pot with water until tender, remove the lamb and reserve the broth. 2. Mix the yogurt with some of the broth and cook on low heat for 10 minutes. 3. Serve the cooked rice topped with the lamb and yogurt sauce, and sprinkle with almonds and cumin."
+      },
+      {
+        "name": "Mujadara",
+        "ingredients": [
+          "lentils",
+          "rice",
+          "caramelized onions",
+          "cumin",
+          "coriander"
+        ],
+        "rating": 4.2,
+        "cooking_method": "1. Cook the lentils in a pot with water until tender, remove and reserve the broth. 2. Cook the rice in the same pot with the lentil broth until done. 3. Saute the onions until caramelized. 4. Mix the cooked lentils with the rice and onions, and season with cumin and coriander."
+      },
+      {
+        "name": "Baba ghanoush",
+        "ingredients": [
+          "eggplant",
+          "tahini",
+          "garlic",
+          "lemon juice",
+          "olive oil"
+        ],
+        "rating": 4.7,
+        "cooking_method": "1. Char the eggplant over an open flame until the skin is completely blackened. 2. Peel off the skin and mash the flesh with a fork. 3. Mix the mashed eggplant with tahini, garlic, and lemon juice. 4. Drizzle olive oil on top and serve with pita bread."
+      }
+    ]
+  }
+]
