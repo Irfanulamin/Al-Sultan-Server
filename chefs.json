@@ -13,13 +13,13 @@
         "name": "Kabsa",
         "ingredients": ["rice", "chicken", "tomatoes", "onions", "garlic"],
         "rating": 4.5,
-        "cookingMethod": "Boil rice, sauté chicken, and mix with tomato-based sauce."
+        "cooking_method": "Boil rice, sauté chicken, and mix with tomato-based sauce."
       },
       {
         "name": "Tabbouleh",
         "ingredients": ["parsley", "tomatoes", "bulgur", "lemon juice", "mint"],
         "rating": 4.2,
-        "cookingMethod": "Mix all ingredients together and let sit in the fridge for at least an hour."
+        "cooking_method": "Mix all ingredients together and let sit in the fridge for at least an hour."
       },
       {
         "name": "Fattoush",
@@ -31,7 +31,7 @@
           "sumac"
         ],
         "rating": 4.0,
-        "cookingMethod": "Mix all ingredients together and add dressing before serving."
+        "cooking_method": "Mix all ingredients together and add dressing before serving."
       }
     ]
   },
